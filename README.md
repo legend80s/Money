@@ -1,2 +1,2 @@
 # Money
-Money calculation in JavaScript for H5, PC, mini-programme and Node.js
+Money calculation in JavaScript for H5, PC, mini-program and Node.js
